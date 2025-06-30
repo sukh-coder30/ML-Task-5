@@ -1,6 +1,5 @@
 # ML-Task-5
 This assignment focuses on predicting the presence of heart disease using supervised machine learning models. It explores and compares Decision Tree Classifiers and Random Forests using the Cleveland Heart Disease dataset.
-
 Objectives
 Train a Decision Tree Classifier
 Visualize the Decision Tree structure
@@ -8,7 +7,6 @@ Analyze overfitting and control model complexity via max_depth
 Train and evaluate a Random Forest Classifier
 Interpret feature importances
 Evaluate model performance using cross-validation
-==============================================================================================================================
 1. Load and Prepare Data
 Loaded the heart disease dataset from CSV
 
